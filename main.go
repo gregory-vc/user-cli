@@ -52,10 +52,10 @@ func main() {
 			password := c.String("password")
 			company := c.String("company")
 			user := &pb.User{
-				Name:     name,
-				Email:    email,
-				Password: password,
-				Company:  company,
+				Name:     name + "Ewan Valentine",
+				Email:    email + "ewan.valentine89@gmail.com",
+				Password: password + "Testing123",
+				Company:  company + "BBC",
 			}
 			fmt.Println(user)
 			// Call our user service
