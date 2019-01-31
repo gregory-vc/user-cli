@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"os"
 
@@ -56,12 +57,15 @@ func main() {
 				Password: password,
 				Company:  company,
 			}
+			fmt.Println(user)
 			// Call our user service
 			r, err := client.Create(context.TODO(), user)
 			if err != nil {
 				log.Fatalf("Could not create: %v", err)
 			}
 			log.Printf("Created: %s", r.User.Id)
+
+			fmt.Println(r.User)
 
 			getAll, err := client.GetAll(context.Background(), &pb.Request{})
 			if err != nil {
