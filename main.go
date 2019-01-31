@@ -50,14 +50,14 @@ func main() {
 			email := c.String("email")
 			password := c.String("password")
 			company := c.String("company")
-
-			// Call our user service
-			r, err := client.Create(context.TODO(), &pb.User{
+			user := &pb.User{
 				Name:     name,
 				Email:    email,
 				Password: password,
 				Company:  company,
-			})
+			}
+			// Call our user service
+			r, err := client.Create(context.TODO(), user)
 			if err != nil {
 				log.Fatalf("Could not create: %v", err)
 			}
