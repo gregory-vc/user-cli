@@ -8,6 +8,8 @@ github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kB
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/go-log/log v0.1.0 h1:wudGTNsiGzrD5ZjgIkVZ517ugi2XRe9Q/xRCzwEO4/U=
 github.com/go-log/log v0.1.0/go.mod h1:4mBwpdRMFLiuXZDCwU2lKQFsoSCo72j3HqBK9d81N2M=
@@ -31,6 +33,8 @@ github.com/gregory-vc/user-service v0.0.0-20190204164449-48e57f33d603 h1:D4mpmbp
 github.com/gregory-vc/user-service v0.0.0-20190204164449-48e57f33d603/go.mod h1:5HXVg2vLR3vLEwsEk1z/xG1nHT1WkMEPqfHBGE0UEZQ=
 github.com/gregory-vc/user-service v0.0.0-20190204164740-eeeb92b6c62e h1:vnO5D+XCHFKa9mdpefGKACWHqqziQe0YER5nQrKKNdc=
 github.com/gregory-vc/user-service v0.0.0-20190204164740-eeeb92b6c62e/go.mod h1:5HXVg2vLR3vLEwsEk1z/xG1nHT1WkMEPqfHBGE0UEZQ=
+github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205 h1:3godqJL8a6k7pqkGUBA66t7ZKC6OROZ+BGwwYob+/J4=
+github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205/go.mod h1:QaSK6mar838oAf8M84EFxo3Jhsz6quMbA+JZy9KmLNc=
 github.com/hashicorp/consul v1.4.2 h1:D9iJoJb8Ehe/Zmr+UEE3U3FjOLZ4LUxqFMl4O43BM1U=
 github.com/hashicorp/consul v1.4.2/go.mod h1:mFrjN1mfidgJfYP1xrJCF+AfRhr6Eaqhb2+sfyn/OOI=
 github.com/hashicorp/errwrap v1.0.0 h1:hLrqtEDnRye3+sgx6z4qVLNuviH3MR5aQ0ykNJa/UYA=
