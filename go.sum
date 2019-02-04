@@ -35,6 +35,8 @@ github.com/gregory-vc/user-service v0.0.0-20190204164740-eeeb92b6c62e h1:vnO5D+X
 github.com/gregory-vc/user-service v0.0.0-20190204164740-eeeb92b6c62e/go.mod h1:5HXVg2vLR3vLEwsEk1z/xG1nHT1WkMEPqfHBGE0UEZQ=
 github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205 h1:3godqJL8a6k7pqkGUBA66t7ZKC6OROZ+BGwwYob+/J4=
 github.com/gregory-vc/user-service v0.0.0-20190204170127-40931d2ce205/go.mod h1:QaSK6mar838oAf8M84EFxo3Jhsz6quMbA+JZy9KmLNc=
+github.com/gregory-vc/user-service v0.0.0-20190204173405-b538c03a1776 h1:HvYhp2IiMftZjX+c4LWSfR7S1uwb6A6TY5vWKLTaB7Y=
+github.com/gregory-vc/user-service v0.0.0-20190204173405-b538c03a1776/go.mod h1:QaSK6mar838oAf8M84EFxo3Jhsz6quMbA+JZy9KmLNc=
 github.com/hashicorp/consul v1.4.2 h1:D9iJoJb8Ehe/Zmr+UEE3U3FjOLZ4LUxqFMl4O43BM1U=
 github.com/hashicorp/consul v1.4.2/go.mod h1:mFrjN1mfidgJfYP1xrJCF+AfRhr6Eaqhb2+sfyn/OOI=
 github.com/hashicorp/errwrap v1.0.0 h1:hLrqtEDnRye3+sgx6z4qVLNuviH3MR5aQ0ykNJa/UYA=
