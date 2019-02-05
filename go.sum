@@ -204,6 +204,8 @@ github.com/gregory-vc/user-service v0.0.0-20190205152101-a0be269d5c65 h1:shzGDMO
 github.com/gregory-vc/user-service v0.0.0-20190205152101-a0be269d5c65/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
 github.com/gregory-vc/user-service v0.0.0-20190205153333-a7ba05a167ea h1:bo68C/2p4k4KQzBhGq5ypqD7huulfffhmPQPu+leIPQ=
 github.com/gregory-vc/user-service v0.0.0-20190205153333-a7ba05a167ea/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
+github.com/gregory-vc/user-service v0.0.0-20190205162426-f93ab286e3c6 h1:Ju8F8As0CuXhaP4kQwsMUVBSFZxiQyvMN/g8KsV3UHo=
+github.com/gregory-vc/user-service v0.0.0-20190205162426-f93ab286e3c6/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.0/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.4.1/go.mod h1:RSKVYQBd5MCa4OVpNdGskqpgL2+G+NZTnrVHpWWfpdw=
