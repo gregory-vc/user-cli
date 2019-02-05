@@ -196,6 +196,14 @@ github.com/gregory-vc/user-service v0.0.0-20190205144055-9c0edb75cd71 h1:+bzD0Qh
 github.com/gregory-vc/user-service v0.0.0-20190205144055-9c0edb75cd71/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
 github.com/gregory-vc/user-service v0.0.0-20190205145141-4ff3aa2ad66a h1:Pj2qVQn6bb9zio22Cztbt1rkV5rXgt2OOREPFS7iDrA=
 github.com/gregory-vc/user-service v0.0.0-20190205145141-4ff3aa2ad66a/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
+github.com/gregory-vc/user-service v0.0.0-20190205150502-a9ed08c5995c h1:xkAH6dkq8D8PD4oZQaGzgKH0gPnE/I0TYWKtReP+OV0=
+github.com/gregory-vc/user-service v0.0.0-20190205150502-a9ed08c5995c/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
+github.com/gregory-vc/user-service v0.0.0-20190205152030-8f6cf5f27fa2 h1:J+6gAAi9gfFTq4VFNXica/TDpSsMlQa5dcRAAT2p1ME=
+github.com/gregory-vc/user-service v0.0.0-20190205152030-8f6cf5f27fa2/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
+github.com/gregory-vc/user-service v0.0.0-20190205152101-a0be269d5c65 h1:shzGDMOKs6f1qkG/Mk98fXHbhPLJ5v+Ysokq2pmc1P4=
+github.com/gregory-vc/user-service v0.0.0-20190205152101-a0be269d5c65/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
+github.com/gregory-vc/user-service v0.0.0-20190205153333-a7ba05a167ea h1:bo68C/2p4k4KQzBhGq5ypqD7huulfffhmPQPu+leIPQ=
+github.com/gregory-vc/user-service v0.0.0-20190205153333-a7ba05a167ea/go.mod h1:T+KaADL0UrxTTQTBDENWNPtLlc3cx2MkBwINkSA8DrI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.0/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.4.1/go.mod h1:RSKVYQBd5MCa4OVpNdGskqpgL2+G+NZTnrVHpWWfpdw=
